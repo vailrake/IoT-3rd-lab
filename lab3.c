@@ -63,6 +63,3 @@ void main() {
 
   printf("%s likes this\n", likes(names, name_count));
 }
-
-
-віддавати пам'ять
